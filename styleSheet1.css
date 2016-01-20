@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large
+}
+
+div{
+    
+}
+
+.h1{
+    color: red;
+    font-size: x-large
+}
+
+.h2{
+    font-size: larger;
+    color: orangered
+}
+
+.Picture{
+    font-size: small
+}
+
+.Bottom{
+    font-size: smaller
+}
+
+.indexLinks{
+    font-size: large;
+    text-align: center;
+    color: navy
+}
