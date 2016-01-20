@@ -11,11 +11,13 @@ div{
 .h1{
     color: red;
     font-size: x-large
+
 }
 
 .h2{
     font-size: larger;
-    color: orangered
+    color: deepskyblue;
+    font-style: italic
 }
 
 .Picture{
@@ -54,4 +56,8 @@ td{
 
 td.numb{
     text-align: right;
+}
+
+td.firstTwo{
+    text-align: left;
 }
